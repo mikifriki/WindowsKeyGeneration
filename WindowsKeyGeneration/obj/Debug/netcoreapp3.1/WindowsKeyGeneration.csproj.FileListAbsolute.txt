@@ -1,0 +1,12 @@
+C:\Users\mihke\Documents\Developoment\WindowsKeyGeneration\WindowsKeyGeneration\bin\Debug\netcoreapp3.1\WindowsKeyGeneration.exe
+C:\Users\mihke\Documents\Developoment\WindowsKeyGeneration\WindowsKeyGeneration\bin\Debug\netcoreapp3.1\WindowsKeyGeneration.deps.json
+C:\Users\mihke\Documents\Developoment\WindowsKeyGeneration\WindowsKeyGeneration\bin\Debug\netcoreapp3.1\WindowsKeyGeneration.runtimeconfig.json
+C:\Users\mihke\Documents\Developoment\WindowsKeyGeneration\WindowsKeyGeneration\bin\Debug\netcoreapp3.1\WindowsKeyGeneration.runtimeconfig.dev.json
+C:\Users\mihke\Documents\Developoment\WindowsKeyGeneration\WindowsKeyGeneration\bin\Debug\netcoreapp3.1\WindowsKeyGeneration.dll
+C:\Users\mihke\Documents\Developoment\WindowsKeyGeneration\WindowsKeyGeneration\bin\Debug\netcoreapp3.1\WindowsKeyGeneration.pdb
+C:\Users\mihke\Documents\Developoment\WindowsKeyGeneration\WindowsKeyGeneration\obj\Debug\netcoreapp3.1\WindowsKeyGeneration.AssemblyInfoInputs.cache
+C:\Users\mihke\Documents\Developoment\WindowsKeyGeneration\WindowsKeyGeneration\obj\Debug\netcoreapp3.1\WindowsKeyGeneration.AssemblyInfo.cs
+C:\Users\mihke\Documents\Developoment\WindowsKeyGeneration\WindowsKeyGeneration\obj\Debug\netcoreapp3.1\WindowsKeyGeneration.csproj.CoreCompileInputs.cache
+C:\Users\mihke\Documents\Developoment\WindowsKeyGeneration\WindowsKeyGeneration\obj\Debug\netcoreapp3.1\WindowsKeyGeneration.dll
+C:\Users\mihke\Documents\Developoment\WindowsKeyGeneration\WindowsKeyGeneration\obj\Debug\netcoreapp3.1\WindowsKeyGeneration.pdb
+C:\Users\mihke\Documents\Developoment\WindowsKeyGeneration\WindowsKeyGeneration\obj\Debug\netcoreapp3.1\WindowsKeyGeneration.genruntimeconfig.cache
